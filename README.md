@@ -1,2 +1,2 @@
 # hello-world
-pyton course
+pyton course22
